@@ -1,6 +1,7 @@
 %test change 1
 %test change 2
 %test change 3
+%test change 4
 r_VBISX = price2ret(VBISX);
 r_VBLTX = price2ret(VBLTX);
 r_VEIEX = price2ret(VEIEX);
